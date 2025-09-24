@@ -1,6 +1,6 @@
 # CAPER++
 
-This repository is the official implementation of the paper CAPER++. This paper has been submitted to TPAMI 2025.
+This repository is the official implementation of the paper CAPER++. 
 
 ![Overview](assets/pipeline.png)
 ![Visulization](assets/results.png)
